@@ -1,0 +1,16 @@
+To do:
+
+1) Welcome page
+2) Game page
+3) Styling (What color scheme, should we make color scheme changeable, etc.?)
+3) Code for tetris blocks/canvas/etc.
+4) Code for recognizing keyboard commands
+5) Animations
+6) Music?
+
+These are some things I thought of in an order that might be good
+for development, lmk what you think.
+
+- Jacob
+
+
